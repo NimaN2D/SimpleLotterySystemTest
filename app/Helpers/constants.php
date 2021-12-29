@@ -1,0 +1,8 @@
+<?php
+CONST ADMIN_TYPE = 'admin';
+CONST CUSTOMER_TYPE = 'customer';
+
+CONST USER_TYPES = [
+    ADMIN_TYPE,
+    CUSTOMER_TYPE
+];
